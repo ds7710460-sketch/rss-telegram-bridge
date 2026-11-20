@@ -2,17 +2,17 @@
 # Add your feeds here
 
 feeds:
-  # Bloomberg feeds
-  - name: "Bloomberg Markets"
-    url: "https://feeds.bloomberg.com/markets/news.rss"
+  # feeds
+  - name: "Conjur"
+    url: "https://conjur.com.br/feed"
     enabled: true
   
-  - name: "Bloomberg Politics"
-    url: "https://feeds.bloomberg.com/politics/news.rss"
+  - name: "Migalhas"
+    url: "https://www.migalhas.com.br/rss/"
     enabled: true
   
-  - name: "Bloomberg Technology"
-    url: "https://feeds.bloomberg.com/technology/news.rss"
+  - name: "TJMG"
+    url: "https://www.tjmg.jus.br/data/rss/noticiasTJMG.xml"
     enabled: true
   
   - name: "Bloomberg Wealth"
