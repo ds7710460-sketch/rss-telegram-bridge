@@ -15,13 +15,13 @@ feeds:
     url: "https://www.tjmg.jus.br/data/rss/noticiasTJMG.xml"
     enabled: true
   
-  - name: "Bloomberg Wealth"
-    url: "https://feeds.bloomberg.com/wealth/news.rss"
-    enabled: false
+  - name: "Notre Dame Philosophical Reviews"
+    url: "http://feeds2.feedburner.com/PhilosophicalReviews/News"
+    enabled: true
   
-  - name: "Bloomberg Economics"
-    url: "https://feeds.bloomberg.com/economics/news.rss"
-    enabled: false
+  - name: "Conjur"
+    url: "https://feeder.co/pt/discover/0761ec3835/conjur-com-br"
+    enabled: true
   
   # Other feeds (disabled by default)
   - name: "Hacker News"
